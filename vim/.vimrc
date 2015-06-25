@@ -19,6 +19,12 @@ colorscheme desert
 "colorscheme manxome
 "set mouse=a
 
+" code folding
+set foldmethod=indent
+set foldnestmax=10
+set nofoldenable
+set foldlevel=1
+
 
 " set tabwidth for html
 autocmd Filetype html setlocal tabstop=2
