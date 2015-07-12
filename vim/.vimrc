@@ -31,3 +31,8 @@ autocmd Filetype html setlocal tabstop=2
 autocmd Filetype html setlocal shiftwidth=2
 autocmd Filetype html setlocal softtabstop=2
 
+" set tabwidth for jade
+autocmd Filetype jade setlocal tabstop=2
+autocmd Filetype jade setlocal shiftwidth=2
+autocmd Filetype jade setlocal softtabstop=2
+
