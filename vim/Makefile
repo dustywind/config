@@ -23,5 +23,5 @@ deploy_vimrc: ; \
     $(CPY) ./.vimrc $(DESTDIR).vimrc
 
 deploy_vim_dir: ; \
-    $(CPY) ./.vim/* $(DESTDIR)
+    $(CPY) ./.vim $(DESTDIR)
 
