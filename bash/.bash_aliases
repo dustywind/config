@@ -12,3 +12,7 @@ alias vless='/usr/share/vim/vim73/macros/less.sh'
 
 # fun
 alias moo='apt-get moo'
+
+# vpn
+alias vpn='sudo openvpn --config ~/.openvpn/FAU-Fulltunnel.ovpn --ca ~/.openvpn/RRZE-VPN-CA.crt'
+
