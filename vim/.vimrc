@@ -15,8 +15,8 @@ set softtabstop=4
 set shiftwidth=4
 
 set hidden
-colorscheme desert 
-"colorscheme manxome
+"colorscheme desert 
+colorscheme manxome
 "set mouse=a
 
 " code folding
