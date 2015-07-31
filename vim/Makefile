@@ -1,5 +1,5 @@
 
-CPY         = cp -rf
+CPY         = cp -rfv
 DESTDIR     = ~/
 SRCDIR      = ~/
 
