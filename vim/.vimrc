@@ -5,6 +5,7 @@ set cursorline
 set number
 set showmode
 set showmatch
+set colorcolumn=80
 
 " behaviour of the editor
 set autoindent
