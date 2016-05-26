@@ -20,6 +20,7 @@ filetype on
 set hidden
 "colorscheme desert 
 colorscheme manxome
+colorscheme desert
 "set mouse=a
 
 " code folding
