@@ -71,6 +71,7 @@
 
 " Tlist config {{
     nmap <F4> <ESC>:TlistToggle<CR>
+    let TList_Auto_Highlight_Tag = 1
 " }}
 
 " NERDTree config {{
